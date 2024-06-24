@@ -24,13 +24,13 @@ If you want to test the effect of Betty at the same time, please execute the fol
 bash ./pytorch/mirco_batch_train/Betty_file/gen_data.sh
 ```
 
-For more details about Betty's experimental environment, please refer to[Betty Code](https://zenodo.org/records/7439846)
+For more details about Betty's experimental environment, please refer to [Betty Code](https://zenodo.org/records/7439846)
 
 ## File Organization
 
--  `pytorch/micro_batch_train` folder contains all the implementations of Cherry.
+- `pytorch/micro_batch_train` folder contains all the implementations of Cherry.
 
--  `cherry_graph_partitioner.py` realizes the Out-degree Centric Graph Partitioning
+- `cherry_graph_partitioner.py` realizes the Out-degree Centric Graph Partitioning
 
 - `c_block_dataloader.py` is the old dataloader for vanilla cherry.
 
