@@ -1,6 +1,6 @@
 # Towards Efficient Large-Scale GNN Training Beyond the GPU Memory Limit via Micro-Batching
 
-Our work is implemented based on DGL (with a PyTorch backend), and all experiments were conducted on Intel x86 processors and NVIDIA A100 GPUs.
+Our work is implemented based on DGL (with a PyTorch backend), and all experiments were conducted on AMD x86 processors and NVIDIA A100 GPUs.
 
 ## Install Requirements
 
